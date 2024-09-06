@@ -1,1 +1,7 @@
 fastapi[all]
+uvicorn
+torch
+opencv-python
+pillow
+numpy
+scikit-image
