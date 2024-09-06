@@ -6,3 +6,4 @@ pillow
 numpy
 scikit-image
 pandas
+requests
